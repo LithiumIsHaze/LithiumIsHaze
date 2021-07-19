@@ -1,4 +1,4 @@
-- 👋 Hola,Soy @LithiumIsHaze
+- 👋 **Hola**
 - 💫 Principiante en el tema de programacion c:
 <!---
 LithiumIsHaze/LithiumIsHaze is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
